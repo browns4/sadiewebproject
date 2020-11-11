@@ -14,7 +14,7 @@ tags:
 
 Hey! Welcome to my web page, it's great to have you :)
 
-My name is Sadie Brown, I am currently a junior attending Allegheny College in Meadville, Pennsylvania  
+My name is Sadie Brown, I am currently a junior attending Allegheny College in Meadville, Pennsylvania. go gators!
 
 
 ### There are a few things that you should know up-front:
