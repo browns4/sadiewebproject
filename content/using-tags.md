@@ -1,6 +1,6 @@
 ---
 title: Circus!
-image: /images/tags.jpg
+image: /images/circus1.jpg
 imageMeta:
   attribution:
   attributionLink:
@@ -14,30 +14,21 @@ tags:
 
 I started doing circus in 2008 at [The Great All America Youth Circus] (https://docircus.org/great-y-circus) in southern California. There I did acts like teeterboard, pyramid bike, trapeze, lear, acro, multiline cradle and other goofy things!
 
-empress-blog has a single, powerful organisational taxonomy, called tags.
+When we moved to Oregon, I still wanted to pursue my love of circus. I took me a little find a group that I felt as close with for a while... A "circus family". But then I found [The Circus Project](https://www.thecircusproject.org/). Here I was able to work with amazing people and even travel a little to Seattle and Chicago to preform which was incredible
 
-It doesn't matter whether you want to call them categories, tags, boxes, or anything else. You can think of tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content.
+---
 
+### Photo Gallory
 
-## Basic tagging
+/images/circus2.jpg
 
-When you write a post, you can assign tags to help differentiate between categories of content. For example, you might tag some posts with `News` and other posts with `Cycling`, which would create two distinct categories of content listed on `/tag/news/` and `/tag/cycling/`, respectively.
+/images/circus3.jpg
 
-If you tag a post with both `News` *and* `Cycling` - then it appears in both sections.
+/images/circus4.jpg
 
-Tag archives are like dedicated home-pages for each category of content that you have. They have their own pages and [hopefully soon](https://github.com/empress/empress-blog/issues/1) will support their own cover images and meta data.
+/images/circus5.jpg
 
+/images/circus6.jpg
 
-## The primary tag
-
-At the top of every post there is a tiny bit of YAML, and the tags key is an [array](http://yaml.org/spec/1.0/#type-seq) of tags. The first tag in the list is always given the most importance, and some themes will only display the primary tag (the first tag in the list) by default. So you can add the most important tag which you want to show up in your theme, but also add a bunch of related tags which are less important.
-
-```yaml
-tags:
-  - news
-  - cycling
-  - bart-stevens
-  - extreme-sports
-```
-
-In this example, **News** is the primary tag which will be displayed by the theme, but the post will also still receive all the other tags, and show up in their respective archives.
+---
+If you ever have the opportunity to swing around on a trapeze or flip upside-down please please do it. It might be a little scary but once you do it you will want to do it again!
