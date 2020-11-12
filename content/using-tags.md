@@ -20,7 +20,7 @@ When we moved to Oregon, I still wanted to pursue my love of circus. I took me a
 
 ### Photo Gallory
 
-/images/circus1.jpg
+/public/images/circus1.jpg
 
 /images/circus3.jpg
 
