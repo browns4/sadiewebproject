@@ -11,6 +11,7 @@ date: Tue Jun 12 2018 17:50:59 GMT+0100 (IST)
 tags:
   - getting-started
 ---
+###Swimming and Diving in College
 
 When I went to college I was pretty sure that I wanted swim competitively. I had a desire to try my hand at dive as well although I had never even gone of a diving board before.
 
@@ -24,11 +25,11 @@ My events are:
   - 1 meter diving
   - 3 meter diving
 
+  ---
+
   [here is my roster page](https://alleghenygators.com/sports/womens-swimming-and-diving/roster/sadie-brown/7416)   
 
   [here is my college swimming page](https://www.swimcloud.com/swimmer/602328/) _psst this has neat graphs showing how I have done over the past couple years check it out_
-
-
 
 ---
 

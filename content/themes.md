@@ -1,25 +1,31 @@
 ---
-title: Setting up your own Ghost theme
-image: /images/design.jpg
+title: Zine Project
+image: /images/zine.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
 authors:
-  - ghost
+  - Sadie
 date: Tue Jun 12 2018 17:49:21 GMT+0100 (IST)
 tags:
   - getting-started
 ---
-empress-blog currently only supports 2 themes, the default [Casper template](https://github.com/empress/empress-blog-casper-template) and the [Attila template](https://github.com/empress/empress-blog-attila-template). If you want to swap between templates it is as simple as installing a different npm dependency 🎉
+### Mini Zine Project
 
-The [empress-blog documentation](https://github.com/empress/empress-blog/blob/master/README.md) recommends that you use the default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. The empress-blog-casper-template is a direct fork of Ghost's official Casper repository so it aims to be as close as possible to the original.
+When COVID-19 hit last spring and we all got sent home, I really started to miss my friends and miss seeing how creative everybody is. In high school I took a really fun Zine Making class. So I came up with a plan... I am started the "MiNi ZiNE PROJECT" as a way to re-connect and stay connected with friends through a  4.5  x 2 .5 inch  page in a mini zine. The zine is made out of a single sheet of printer paper and then folded into a booklet with a cover, six pages and a back-cover. My idea was I would fill one page of the in the booklet and then send it to another friend who would then send it along. Once the booklet has been sent to six different people so that all the pages are full it is sent back to me and published on here so that everyone who contributed can see what we have all put together. (and because I wanted mail...) your pages is yours and you can do whatever you would like to do on it. You can draw, paint, write, stamp, scribble, collage, etc! The idea is to just be creative in whatever you make and to stay connected!
 
-If you are interested in writing your own theme for empress-blog you can get started using
+Please check it out [MiNi ZiNE PROJECT](https://sites.google.com/view/mini-zine-project/home?authuser=0)
 
-```bash
-npm init empress-blog-template <template-name>
-```
-and it will create a brand new template addon in the folder `empress-blog-template-name-template`! You can check out the documentation for [create-empress-blog-template here](https://github.com/empress/create-empress-blog-template#readme). As [Ghost](https://ghost.org/) uses handlebars it is not too difficult to port an existing Ghost template to use Ember templates, so if you have any requests for an existing open source Ghost template please let us know 👍
+---
 
-If you do end up writing an empress-blog template please let me know [on Twitter](https://twitter.com/real_ate) so I can include your template in a list of existing templates.
+###Want to start your own Mini Zine Project?
+
+here is how to make the booklet
+
+![zine](/images/howtomakezine.jpg)
+
+just be creative and have fun!
+
+---
+ happy zining 
