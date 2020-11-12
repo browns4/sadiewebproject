@@ -24,17 +24,17 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
+      title: 'Sadie Brown',
+      description: 'a little bit about me on a webpage',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'Built by Sadie Brown',
         route: 'page',
-        id: 'chris-manson'
+        id: 'sadie'
       }]
     },
 
