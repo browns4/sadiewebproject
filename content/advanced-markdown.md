@@ -1,6 +1,6 @@
 ---
 title: Majors and Learning
-image: /images/advanced.jpg
+image: /images/majorcover.jpg
 imageMeta:
   attribution:
   attributionLink:
