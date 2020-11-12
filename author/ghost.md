@@ -1,6 +1,6 @@
 ---
 name: Sadie
-id: sadie
+id: ghost
 image: /images/ghost-icon.png
 cover:
 website: https://github.com/browns4/sadiewebproject

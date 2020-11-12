@@ -34,7 +34,7 @@ module.exports = function(environment) {
       }, {
         label: 'Built by Sadie Brown',
         route: 'page',
-        id: 'sadie'
+        id: 'chris-manson'
       }]
     },
 

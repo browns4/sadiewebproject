@@ -1,6 +1,6 @@
 ---
 name: Sadie Brown
-id: sadie
+id: chris
 image: /images/sadie.jpg
 cover:
 website:
