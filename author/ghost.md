@@ -1,9 +1,9 @@
 ---
-name: Ghost
-id: ghost
+name: Sadie
+id: sadie
 image: /images/ghost-icon.png
 cover:
-website: https://github.com/empress/empress-blog
+website: https://github.com/browns4/sadiewebproject
 twitter:
 facebook:
 location:
