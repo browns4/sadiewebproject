@@ -7,7 +7,7 @@ imageMeta:
 featured: true
 authors:
   - ghost
-date: Wednesday Nov 11th, 2020
+date: Tue Nov 10 2020 17:49:21 GMT+0100 (IST)
 tags:
   - work
 ---
