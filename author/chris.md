@@ -1,12 +1,11 @@
 ---
-name: Chris Manson
-id: chris
-image: /images/chris.jpg
+name: Sadie Brown
+id: Sadie
+image: /images/sadie.jpg
 cover:
 website:
-twitter: real_ate
+twitter:
 facebook:
-location: Dublin, Ireland
+location: Portland, Oregon
 ---
-Chris Manson is the creator of empress-blog and a member of the Ember Core
-Learning team. Feel free to delete this user when creating your own content.
+Sadie Brown is the creator of Sadie Brown Webpage
