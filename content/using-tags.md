@@ -20,15 +20,14 @@ When we moved to Oregon, I still wanted to pursue my love of circus. I took me a
 
 ### Photo Gallory
 
-![circus1](/public/images/circus1.jpg)
+![circus4](/images/circus1.jpg)
 
-[circus3](/images/circus3.jpg)
+![circus4](/images/circus3.jpg)
 
 ![circus4](/images/circus4.jpg)
 
-[circus5](/public/images/circus5.jpg)
+![circus4](/images/circus5.jpg)
 
-![circus6](/images/circus6.jpg)
-
+![circus4](/images/circus6.jpg)
 ---
 If you ever have the opportunity to swing around on a trapeze or flip upside-down please please do it. It might be a little scary but once you do it you will want to do it again!

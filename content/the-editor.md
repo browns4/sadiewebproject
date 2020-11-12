@@ -27,7 +27,7 @@ My sophomore year and through now I have worked with the Civic Engagement depart
 I have include a copy of my resume to give you a better Idea of my other experiences and skills I did not mention above
  ---
 
-[Resume](/images/resume.jpg)
+![Resume](/images/resume.jpg)
 
 ---
 ###LinkedIn
