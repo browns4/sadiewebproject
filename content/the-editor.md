@@ -32,6 +32,8 @@ I have include a copy of my resume to give you a better Idea of my other experie
 ---
 ###LinkedIn
 
-click here to see my [LinkedIn](https://www.linkedin.com/in/sadie-brown-ab09151b8/) which also has some of my work experience 
+click here to see my [LinkedIn](https://www.linkedin.com/in/sadie-brown-ab09151b8/) which also has some of my work experience
+
+---
 
 thank you for looking at my professional experience and my resume!

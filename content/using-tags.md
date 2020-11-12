@@ -1,5 +1,5 @@
 ---
-title: Organising your content with tags
+title: Circus!
 image: /images/tags.jpg
 imageMeta:
   attribution:
@@ -7,10 +7,12 @@ imageMeta:
 featured: true
 authors:
   - ghost
-date: Tue Jun 12 2018 17:57:10 GMT+0100 (IST)
+date: Tue Nov 11 2018 17:57:10 GMT+0100 (IST)
 tags:
-  - getting-started
+  - hobbies
 ---
+
+I started doing circus in 2008 at [The Great All America Youth Circus] (https://docircus.org/great-y-circus) in southern California. There I did acts like teeterboard, pyramid bike, trapeze, lear, acro, multiline cradle and other goofy things!
 
 empress-blog has a single, powerful organisational taxonomy, called tags.
 
