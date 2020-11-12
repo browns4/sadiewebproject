@@ -1,9 +1,9 @@
 ---
-title: Why Ember
+title: Allegheny Women's Swimming and Diving 
 image: /images/ember.jpg
 imageMeta:
-  attribution: by Robert Wagner
-  attributionLink: https://unsplash.com/photos/OM4TjQwHC1I
+  attribution:
+  attributionLink:
 featured: true
 authors:
   - chris
