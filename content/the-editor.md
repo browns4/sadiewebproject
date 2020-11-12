@@ -1,5 +1,5 @@
 ---
-title: Editing Posts with empress-blog
+title: Professional Experience and Documents
 image: /images/writing.jpg
 imageMeta:
   attribution:
@@ -34,7 +34,7 @@ Images in Markdown look just the same as links, except they're prefixed with an 
 
 `![Image description](/path/to/image.jpg)`
 
-![Computer](https://casper.ghost.org/v1.0.0/images/computer.jpg)
+![Rusume](public/images/rusume.jpg)
 
 If you want to add images to your empress-blog app you can just drop them in the `/public` folder, which you should see if you are running this locally!
 
