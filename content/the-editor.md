@@ -7,10 +7,21 @@ imageMeta:
 featured: true
 authors:
   - ghost
-date: Tue Jun 12 2018 17:58:54 GMT+0100 (IST)
+date: Wednesday Nov 11th, 2020
 tags:
   - getting-started
 ---
+## The start
+I have had the opportunity to do a lot of fun work throughout high school. My first job ever, like before babysitting, gardening or petsitting, was being a swim instructing. I really like this job because it was outside in the sun all summer. I worked at a community center that was only a few blocks away from my house so I was able to walk there. I think this was a really good first job because I learned a lot of communication skills as well as learning how have a real job and learning responsibilities that come a long with that such as time management and organization.
+
+
+I continued working at the pool for a couple years in the summer but during the school I began teaching circus. Circus was a big interest of mine and I loved getting to be in the space more often. This job was very similar to swim instructing but it built me up a lot more. Teaching circus included coming up with my own lesson plan and working with adults which i found out required a very different teaching approach.
+
+## Working Through College
+
+My first summer back after college I worked for Portland Juice Co. a local juicery and farmers market vendor. This job was very different than work I had done before 
+
+
 
 empress-blog uses a language called **Markdown** to format text, and so does the original Ghost 🎉
 
@@ -34,7 +45,7 @@ Images in Markdown look just the same as links, except they're prefixed with an 
 
 `![Image description](/path/to/image.jpg)`
 
-![Rusume](/images/rusume.jpg)
+![Rusume](/public/images/resume.jpg)
 
 If you want to add images to your empress-blog app you can just drop them in the `/public` folder, which you should see if you are running this locally!
 
