@@ -21,11 +21,11 @@ Please check it out [MiNi ZiNE PROJECT](https://sites.google.com/view/mini-zine-
 
 ###Want to start your own Mini Zine Project?
 
-here is how to make the booklet
+_here is how to make the booklet_
 
 ![zine](/images/howtomakezine.jpg)
 
-just be creative and have fun!
+**just be creative and have fun!**
 
 ---
- happy zining 
+ ##HAPPY ZINING
