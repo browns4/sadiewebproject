@@ -6,11 +6,23 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
-  - ghost
+  - sadie
 date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
 tags:
 ---
 
-[Chris Manson](https://twitter.com/real_ate) is a Ember enthusiast and a member of the [Ember Core Learning Team](https://emberjs.com/team). empress-blog was an experimental project that came out of the work on converting the [Ember Guides](https://guides.emberjs.com) to be a static Ember application. empress-blog has since inspired the creation of [Guidemaker](https://github.com/empress/guidemaker) and is a driving force for the evolution of the Ember static site ecosystem.
+### Welcome to my web page!
 
-Hey :-)
+I hope you found out at least on fun fact about me but if you did not ... here are some
+
+####Fun Facts
+
+- My favorite food is Pumpkin Pie!
+- One thing that I want to do sometime is sail
+- I have a pet cat named Nora
+- I have some pretty awesome and supportive people in my life
+- I have no idea what the future holds and I am okay with that
+- my favorite thing to drink is either fancy juice or tea
+
+
+:-)
