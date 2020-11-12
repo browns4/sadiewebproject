@@ -14,38 +14,28 @@ tags:
 ## The start
 I have had the opportunity to do a lot of fun work throughout high school. My first job ever, like before babysitting, gardening or petsitting, was being a swim instructing. I really like this job because it was outside in the sun all summer. I worked at a community center that was only a few blocks away from my house so I was able to walk there. I think this was a really good first job because I learned a lot of communication skills as well as learning how have a real job and learning responsibilities that come a long with that such as time management and organization.
 
+---
 
 I continued working at the pool for a couple years in the summer but during the school I began teaching circus. Circus was a big interest of mine and I loved getting to be in the space more often. This job was very similar to swim instructing but it built me up a lot more. Teaching circus included coming up with my own lesson plan and working with adults which i found out required a very different teaching approach.
 
-## Working Through College
+---
 
-My first summer back after college I worked for Portland Juice Co. a local juicery and farmers market vendor. This job was very different than work I had done before 
-
-
-
-empress-blog uses a language called **Markdown** to format text, and so does the original Ghost 🎉
-
-The main difference between the hosted Ghost platform and empress-blog is that we just use files on disk, so you can either edit your Markdown files directly or you can use a desktop Markdown editor. It keeps things simple but it can sometimes feel like you are writing on pro-mode 😎
-
-If you want to start a new post we recommend that you use the built in generator `ember generate post "The next big thing - empress-blog"`. This will create a file for you and setup the start of the metadata.
-
-For now, though, let's run you through some of the basics of editing Markdown. You can see this post [directly on github](https://github.com/empress/empress-blog/blob/master/blueprints/empress-blog/files/__base__/content/the-editor.md) if you want to see all the Markdown we've used. (don't forget to click the _Raw_ button to see the source).
+My first summer back after college I worked for Portland Juice Co. a local juicery and farmers market vendor. This job was very different than work I had done before
 
 
-## Formatting text
 
-The most common shortcuts are of course, **bold** text, _italic_ text, and [hyperlinks](https://example.com). These generally make up the bulk of any document. You can also make headings using `#` at the start of the line (multiple `#` symbols for h2/h3/h4/etc)
-
-With just a couple of extra characters here and there, you're well on your way to creating a beautifully formatted story.
 
 
 ## Inserting images
 
 Images in Markdown look just the same as links, except they're prefixed with an exclamation mark, like this:
 
+
+
 `![Image description](/path/to/image.jpg)`
 
-![Rusume](/public/images/resume.jpg)
+![Rusume](/images/resume.jpg)
+/images/resume.jpg
 
 If you want to add images to your empress-blog app you can just drop them in the `/public` folder, which you should see if you are running this locally!
 
@@ -74,12 +64,3 @@ When you want to pull out a particularly good excerpt in the middle of a piece, 
 > A well placed quote guides a reader through a story, helping them to understand the most important points being made
 
 All themes handles blockquotes slightly differently. Sometimes they'll look better kept shorter, while other times you can quote fairly hefty amounts of text and get away with it. Generally, the safest option is to use blockquotes sparingly.
-
-
-## Dividing things up
-
-If you're writing a piece in parts and you just feel like you need to divide a couple of sections distinctly from each other, a horizontal rule might be just what you need. Dropping `---` on a new line will create a sleek divider, anywhere you want it.
-
----
-
-This should get you going with the vast majority of what you need to do in the editor, but if you're still curious about more advanced tips then check out the [Advanced Markdown Guide](/advanced-markdown/) - or if you'd rather learn about how tags work, we've got a overview of [how to use tags](/using-tags/).
