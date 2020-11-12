@@ -9,7 +9,7 @@ authors:
   - ghost
 date: Tue Nov 10 2020 17:49:21 GMT+0100 (IST)
 tags:
-  - work
+  - getting-started
 ---
 ## Working History
 

@@ -9,7 +9,7 @@ authors:
   - ghost
 date: Fri Nov 2020 2020 17:49:21 GMT+0100 (IST)
 tags:
-  - first post
+  - getting-started
 ---
 
 Hey! Welcome to my web page, it's great to have you :)

@@ -9,7 +9,7 @@ authors:
   - ghost
 date: Tue Nov 11 2018 17:57:10 GMT+0100 (IST)
 tags:
-  - hobbies
+  - getting-started
 ---
 
 I started doing circus in 2008 at [The Great All America Youth Circus] (https://docircus.org/great-y-circus) in southern California. There I did acts like teeterboard, pyramid bike, trapeze, lear, acro, multiline cradle and other goofy things!
