@@ -6,7 +6,7 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
-  - Sadie
+  - sadie
 date: Tue Jun 12 2018 17:50:59 GMT+0100 (IST)
 tags:
   - getting-started
