@@ -28,4 +28,4 @@ _here is how to make the booklet_
 **just be creative and have fun!**
 
 ---
- ##HAPPY ZINING
+HAPPY ZINING
