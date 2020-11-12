@@ -1,5 +1,5 @@
 ---
-title: Advanced Markdown tips
+title: Majors and Learning
 image: /images/advanced.jpg
 imageMeta:
   attribution:
@@ -12,60 +12,9 @@ tags:
   - getting-started
 ---
 
-There are lots of powerful things you can do with the Markdown
+## MY MAJORS
 
-If you've gotten pretty comfortable with [all the basics](/the-editor/) of writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do!
+I am majoring in Integrative Informatics with a focus in Environmental Science and Sustainability and I am also majoring in Community and Justice Studies.
 
-As with the last post, you'll want to be looking at the source [directly on github](https://github.com/empress/empress-blog/blob/master/blueprints/empress-blog/files/__base__/content/advanced-markdown.md) or in your local editor as you read it so that you can see all the Markdown code we're using.
-
-
-## Special formatting
-
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
-
-+ \*escaped characters\*
-
-
-## Writing code blocks
-
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-
-## Full bleed images
-
-One neat trick which you can use in Markdown to distinguish between different types of images is to add a `#hash` value to the end of the source URL, and then target images containing the hash with special styling. For example:
-
-![walking](https://casper.ghost.org/v1.0.0/images/walking.jpg#full)
-
-which is styled with...
-
-```
-img[src$="#full"] {
-    max-width: 100vw;
-}
-```
-
-This creates full-bleed images in the Casper theme, which stretch beyond their usual boundaries right up to the edge of the window. Every theme handles these types of things slightly differently, but it's a great trick to play with if you want to have a variety of image sizes and styles.
-
-
-## Reference lists
-
-**The quick brown [fox][1], jumped over the lazy [dog][2].**
-
-[1]: https://en.wikipedia.org/wiki/Fox "Wikipedia: Fox"
-[2]: https://en.wikipedia.org/wiki/Dog "Wikipedia: Dog"
-
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Ghost editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+####HOW I FOUND MY MAJOR
+When I came into college I did not really know what I wanted to study I was kind of just taking a bunch of classes that sounded interesting to me. When I was in my sophomore year I looked at all the the classes I had taken and some of the other classes i might want to take in the future and I was happy to find out that most of those fit into the Integrative Informatics major I chose the ESS focus because I had taken an ESS class and found it to be really fun and something that I could see myself wanting to work with in the future. At the start of my Junior year i had planned onjust minnoring in Community and Justice Studies my mentality with going for the major thus far has been "if you want to take that classes do it" and if the major works out that's awesome, but mostly I just want to be taking classes that challenge me at the same time that they are intrestign to me 
