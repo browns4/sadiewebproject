@@ -13,7 +13,7 @@ tags:
 ---
 ###Swimming and Diving in College
 
-When I went to college I was pretty sure that I wanted swim competitively. I wanted to learn how to dive even though at the time I had never been off a diving board before.
+When I went to college I was pretty sure that I wanted to swim competitively. I also wanted to learn to dive even though I had never been off a diving board before.
 
 Currently I am a part of [The Allegheny Women's Swimming and Diving Team](https://alleghenygators.com/sports/womens-swimming-and-diving/roster) as both a swimmer and a diver.
 
@@ -27,9 +27,9 @@ My events are:
 
   ---
 
-Check out my [roster page](https://alleghenygators.com/sports/womens-swimming-and-diving/roster/sadie-brown/7416)   
+Check out my [roster page](https://alleghenygators.com/sports/womens-swimming-and-diving/roster/sadie-brown/7416).   
 
-Check out my [College Swimming page](https://www.swimcloud.com/swimmer/602328/) _psst this has neat graphs showing how I have done over the past couple years_
+Check out my [College Swimming page](https://www.swimcloud.com/swimmer/602328/). _psst... This has neat graphs showing how I have done over the past couple years_
 
 ---
 

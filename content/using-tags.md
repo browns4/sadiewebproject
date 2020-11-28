@@ -13,9 +13,9 @@ tags:
 ---
 ### I Ran Away and Joined the Circus!
 
-I started doing circus in 2008 at [The Great All America Youth Circus] (https://docircus.org/great-y-circus) in Southern California. There I did acts like teeterboard, pyramid bike, trapeze, lear, acro, multiline cradle and other goofy things!
+I started doing circus in 2008 at [The Great All America Youth Circus](https://docircus.org/great-y-circus) in Southern California. There I did teeterboard, pyramid bike, trapeze, lear, acro, multiline cradle, and other goofy things!
 
-When we moved to Oregon, I still wanted to pursue my love of circus. But I took me a little to find a group that I felt as close with. But then I found [The Circus Project](https://www.thecircusproject.org/). Here I was able to work with amazing people and even travel a little to Seattle and Chicago to preform which was incredible.
+When we moved to Oregon, I still wanted to pursue my love of circus. But it took me a little time to find a group that I fit me. Then I found [The Circus Project](https://www.thecircusproject.org/). Here I was able to work with amazing people and even travel to Seattle and Chicago to perform. It was incredible.
 
 ---
 
@@ -32,4 +32,4 @@ When we moved to Oregon, I still wanted to pursue my love of circus. But I took 
 
 ![circus6](/images/circus6.jpeg)
 ---
-If you ever have the opportunity to swing around on a trapeze or flip upside-down please please do it. It might be a little scary but once you do it you will want to do it again!
+If you ever have the opportunity to swing around on a trapeze or flip upside-down, please please do it. It might be a little scary but once you do it you will want to do it again!

@@ -13,16 +13,16 @@ tags:
 
 ### Welcome to my web page!
 
-I hope you found out at least on fun fact about me but if you did not ... here are some
+I hope you found out at least on fun fact about me but if you did not... here are some
 
 ####Fun Facts
 
 - My favorite food is Pumpkin Pie!
-- One thing that I want to do sometime is sail
-- I have a pet cat named Nora
+- One thing that I want to do sometime is sail around in the ocean
+- I have a pet cat named Nora (she is a little chunky but still very cute)
 - I have some pretty awesome and supportive people in my life
 - I have no idea what the future holds and I am okay with that
-- my favorite thing to drink is either fancy juice or tea
+- My favorite thing to drink is either fancy juice or tea
 
 
 :-)
